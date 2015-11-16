@@ -1,0 +1,11 @@
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\Configure.cshtml
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\PaymentInfo.cshtml
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+D:\git\nopcommerce\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
+D:\git\nopcommerce\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+D:\git\nopcommerce\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb

@@ -1,0 +1,9 @@
+D:\git\nopcommerce\Tests\Nop.Tests\bin\Debug\Nop.Tests.dll
+D:\git\nopcommerce\Tests\Nop.Tests\bin\Debug\Nop.Tests.pdb
+D:\git\nopcommerce\Tests\Nop.Tests\bin\Debug\nunit.framework.dll
+D:\git\nopcommerce\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.dll
+D:\git\nopcommerce\Tests\Nop.Tests\bin\Debug\nunit.framework.xml
+D:\git\nopcommerce\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
+D:\git\nopcommerce\Tests\Nop.Tests\obj\Debug\Nop.Tests.csprojResolveAssemblyReference.cache
+D:\git\nopcommerce\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
+D:\git\nopcommerce\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb

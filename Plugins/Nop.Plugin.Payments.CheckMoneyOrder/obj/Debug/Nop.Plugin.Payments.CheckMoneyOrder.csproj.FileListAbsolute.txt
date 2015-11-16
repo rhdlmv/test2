@@ -1,0 +1,11 @@
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentCheckMoneyOrder\Configure.cshtml
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentCheckMoneyOrder\PaymentInfo.cshtml
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\web.config
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Description.txt
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll.config
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+D:\git\nopcommerce\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.dll
+D:\git\nopcommerce\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+D:\git\nopcommerce\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.csprojResolveAssemblyReference.cache

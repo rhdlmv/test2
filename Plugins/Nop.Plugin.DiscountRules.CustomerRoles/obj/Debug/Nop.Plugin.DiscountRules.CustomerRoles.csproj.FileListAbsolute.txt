@@ -1,0 +1,10 @@
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\DiscountRulesCustomerRoles\Configure.cshtml
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Description.txt
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\web.config
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\logo.jpg
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll.config
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll
+D:\git\nopcommerce\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+D:\git\nopcommerce\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.dll
+D:\git\nopcommerce\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+D:\git\nopcommerce\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.csprojResolveAssemblyReference.cache

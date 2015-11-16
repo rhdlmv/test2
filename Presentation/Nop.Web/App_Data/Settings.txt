@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=PAUL\SQLEXPRESS;Initial Catalog=nop_commerce;Integrated Security=True;Persist Security Info=False
